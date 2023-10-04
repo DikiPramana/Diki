@@ -9,7 +9,7 @@ html{
 }
 body{
     background: #330000;
-    color: #000000;
+    color: #fff;
 }
 #header{
     width: 100%;
@@ -36,7 +36,7 @@ nav ul li{
     margin: 10px 20px;
 }
 nav ul li a{
-    color: #FFFFFF;
+    color: #fff;
     text-decoration: none;
     font-size: 18px;
     position: relative;
@@ -45,7 +45,7 @@ nav ul li a::after{
     content: '';
     width: 0%;
     height: 5px;
-    background: #FFFFFF;
+    background: #01c0fa;
     position: absolute;
     left: 0;
     bottom: -6px;
