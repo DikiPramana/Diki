@@ -8,8 +8,8 @@ html{
     scroll-behavior: smooth;
 }
 body{
-    background: #FFD700;
-    color: #FFD700;
+    background: #ffd700;
+    color: #ffd700;
 }
 #header{
     width: 100%;
@@ -45,7 +45,7 @@ nav ul li a::after{
     content: '';
     width: 0%;
     height: 5px;
-    background: #ff004f;
+    background: #ffd700;
     position: absolute;
     left: 0;
     bottom: -6px;
